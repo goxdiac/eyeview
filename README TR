@@ -1,0 +1,30 @@
+👁 EyeView
+Windows özelinde basit bir sistem monitörü. Neler çalışıyor, ne zamandır çalışıyor, ağını ne kullanıyor hepsini tek bir panelde gösterir.
+
+Ne gösterir?
+
+İndirme ve yükleme hızı (canlı grafik)
+CPU ve RAM kullanımı (canlı grafik)
+Bu oturumda ne kadar veri kullandığın
+Açık pencereler ve ne zamandır açık oldukları
+Aktif ağ bağlantısı olan uygulamalar
+Sistem çalışma süresi
+
+Kurulum
+Releases sayfasından EyeView.exe dosyasını indir ve çalıştır.
+Ya da kaynak koddan:
+bashpip install -r requirements.txt
+python eyeview.py
+Gereksinimler
+
+Windows 10 veya 11
+Python 3.10+ (sadece kaynak koddan çalıştırıyorsan)
+
+Notlar
+
+Kapatınca sistem tepsisine küçülür, arka planda çalışmaya devam eder
+Ayarlar (renkler, uyarılar, başlangıç) ⚙ butonundan erişilebilir
+Ayarlar otomatik kaydedilir
+
+Lisans
+MIT
