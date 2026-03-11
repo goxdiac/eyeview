@@ -3,7 +3,7 @@ Eyeview 1.0.0 launch now!
 My Kreosus support link: https://kreosus.com/httpsgithubcomgoxdiac/about
 
 
-A simple system monitor for Windows. Shows you what's running, how long it's been running, and what's using your network — all in one panel.
+A simple system monitor for Windows. Shows you what's running, how long it's been running, and what's using your network all in one panel.
 What it shows
 
 Download and upload speed (live graph)
