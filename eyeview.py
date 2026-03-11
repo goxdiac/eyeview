@@ -2,7 +2,6 @@
 EyeView - System Monitor
 Version: 1.0.0
 Requirements: pip install PyQt6 psutil pywin32
-GitHub: https://github.com/yourusername/eyeview
 License: MIT
 """
 
